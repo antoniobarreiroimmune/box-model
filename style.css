@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+    }
+    *,
+    *before,
+    *after {
+    box-sizing: inherit;
+    }
+#uno{width: 200px;
+height: 100px;}
+#parrafo1{margin: 20px;}
+h1{padding: 10px;}
+a{border: solid 2px red
+}
+#boton1{width: 150px;margin-right: 10px;}
+#uno{border: 3px}
+ul li{padding: 15px;}
+#parrafo2{margin-bottom: 30px;margin-left: 10px
+    ;}
+    #uno{padding-top: 20px;
+    padding-bottom: 10px;
+padding-left: 5px;
+padding-right: 5px;}
+#cuadro{width: 300px;
+height: 200px;
+margin: 25px;}
+#caja{width: 250px;height: 150px;
+border: 1px solid black;
+padding: 20px;}
+#li2{margin-right: 15px;padding: 10px;}
+#ej13{max-width: 400px;margin: 0px;}
+img{border:solid 2px green}
+#boton2{width: 120px;margin-top: 10px;padding: 5px;}
+
+
+
+
+
